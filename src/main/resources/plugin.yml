@@ -6,12 +6,12 @@ version: 1.0
 commands:
   getglassback2:
     description: use GetGlassBack2 Command
-    aliases: [gbb2]
+    aliases: [ggb2]
 
 permissions:
   getglassback2.use:
     description: to Drop GetGlassBack2
     default: true
   getglassback2.debug:
-    description: replace DebugMode
+    description: toggle DebugMode
     default: op
