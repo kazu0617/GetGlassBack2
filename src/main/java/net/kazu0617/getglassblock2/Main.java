@@ -55,7 +55,6 @@ public class Main extends JavaPlugin implements Listener
         {
             cLog.Message(sender,"CommandList");
             cLog.Message(sender,"/ggb DebugMode ... DebugMode");
-            cLog.Message(sender,"CommandList");
         }
         return true;
     }
