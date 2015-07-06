@@ -8,7 +8,7 @@ GetGlassBackを1.8に対応させたもの。
 
 ## DebugModeについて
 GetGlassBackで反応するブロック(Glass,Stained Glass,Thin Glass,Stained Glass Pane)を壊した時にログが流れます。
-基本使うことはないと思いますが、もし使うことがアレばのために置いてます。
+基本使うことはないと思いますが、もし使うことがあれば。
 
 ## Commands
 - getglassback2.DebugMode  ---DebugModeの切り替え。
