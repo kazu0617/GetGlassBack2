@@ -54,7 +54,7 @@ public class Main extends JavaPlugin implements Listener
         if((args.length == 1) && "help".equalsIgnoreCase(args[0]))
         {
             cLog.Message(sender,"CommandList");
-            cLog.Message(sender,"/ggb DebugMode ... DebugMode");
+            cLog.Message(sender,"/ggb DebugMode ... DebugModeの切り替え");
         }
         return true;
     }
