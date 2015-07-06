@@ -1,4 +1,4 @@
-package jp.dip.kazu0617.getglassback2;
+package net.kazu0617.getglassback2;
 
 import java.util.logging.Logger;
 import org.bukkit.command.CommandSender;
