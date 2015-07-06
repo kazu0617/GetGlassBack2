@@ -1,8 +1,9 @@
 # GetGlassBack2
 ## なんだこれ
-- GetGlassBackを1.8に対応させたもの。
-- ガラスをパリーンしたらドロップする。やったね。
-- オリジナルのGetGlassBackから使いやすいようにPermissionを追加しています。
+ GetGlassBackを1.8に対応させたもの。
+ ガラスをパリーンしたらドロップする。やったね。
+ オリジナルのGetGlassBackから使いやすいようにPermissionを追加しています。
+
 ## Permissionについて
 - getglassback2.use   ---GetGlassBack2の機能を有効化する。 default: true
 - getglassback2.debug ---GetGlassBack2のDebugModeを切り替えするコマンドを実行できる。  default: false
