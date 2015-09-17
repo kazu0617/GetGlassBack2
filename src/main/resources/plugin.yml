@@ -1,0 +1,18 @@
+main: net.kazu0617.getglassback2.Main
+name: GetGlassBack2
+author: [iKeirNez, kazu0617]
+version: 1.0
+
+commands:
+  getglassback2:
+    description: use GetGlassBack2 Command
+    aliases: [ggb2]
+
+permissions:
+  getglassback2.use:
+    description: to Drop GetGlassBack2
+    default: true
+  getglassback2.debug:
+    description: replace DebugMode
+    default: op
+    
