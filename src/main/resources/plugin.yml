@@ -13,6 +13,5 @@ permissions:
     description: to Drop GetGlassBack2
     default: true
   getglassback2.debug:
-    description: replace DebugMode
+    description: toggle DebugMode
     default: op
-    
