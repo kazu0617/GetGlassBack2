@@ -18,7 +18,6 @@ public class Main extends JavaPlugin implements Listener
     public String Pluginprefix = "[" + ChatColor.GREEN + Pluginname + ChatColor.RESET +"] ";
     public GetGlassBackBlockListener blockListener = new GetGlassBackBlockListener(this);
     public ConsoleLog cLog = new ConsoleLog(this);
-    public ButtonCreate BC = new ButtonCreate(this);
  
     public boolean DebugMode = false;
     
