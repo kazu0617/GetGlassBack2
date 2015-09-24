@@ -1,4 +1,4 @@
-/*
+/**
  * @author     kazu0617
  * @license    LGPLv3
  * @copyright  Copyright kazu0617 2015
